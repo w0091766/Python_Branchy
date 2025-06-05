@@ -1,0 +1,4 @@
+She saw that both the front door and the back door was open.  What should she do?
+1. go out the front door.
+2. go out the back door.
+3. Stay Inside.
